@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name"> Memory Game</string>
+    <string name="game_rules">To play this game, you must match photos together! Once you match them together, you will gain a point. Try to match all the pictures!</string>
+</resources>
